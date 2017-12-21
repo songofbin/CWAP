@@ -1,0 +1,8 @@
+WES_task1_name	patient1-N	sampleID_1540	2	1-4	library1-N	2	ProjectID
+WES_task1_name	patient1-N	sampleID_1540	2	17-20	library2-N	2	ProjectID
+WES_task1_name	patient1-T	sampleID_1541	2	21-24	library2-N	2	ProjectID
+WES_task1_name	patient1-T	sampleID_1541	2	5-8	library1-N	2	ProjectID
+WES_task1_name	patient2-N	sampleID_1543	2	25-28	library3-N	2	ProjectID
+WES_task1_name	patient2-N	sampleID_1543	2	9-12	library4-N	2	ProjectID
+WES_task1_name	patient2-T	sampleID_1544	2	13-16	library4-N	2	ProjectID
+WES_task1_name	patient2-T	sampleID_1544	2	29-32	library3-N	2	ProjectID
